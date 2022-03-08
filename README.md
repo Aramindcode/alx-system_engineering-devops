@@ -1,2 +1,1 @@
-#!/bin/bash
-This for the new Repo
+This is for the i/o redirections
